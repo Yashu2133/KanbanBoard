@@ -64,7 +64,7 @@ The Kanban Task Board is a simple and interactive task management web applicatio
 
 ## 🔗 Live Demo 
 
- https://storecartapp.netlify.app/
+https://kanbanbt.netlify.app/
 
  ---
 
